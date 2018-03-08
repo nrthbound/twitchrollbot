@@ -1,0 +1,16 @@
+{
+  "name": "rollbot",
+  "version": "1.0.0",
+  "description": "Simple Rollbot for Twitch",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "node-twitchbot": "^2.0.5",
+    "tmi.js": "^1.2.1"
+  }
+}
